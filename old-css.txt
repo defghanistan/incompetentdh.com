@@ -1,0 +1,24 @@
+body
+{
+background-color:#b0c4de;
+margin: 50px 0px;
+padding: 0px;
+text-align: center;
+}
+.insetLogo {
+
+  padding-top: 17px;
+  font-family: Rockwell, Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: #616D7E;
+  text-shadow: rgba(0,0,0,0.5) -1px 0, rgba(0,0,0,0.3) 0 -1px, rgba(255,255,255,0.5) 0 1px, rgba(0,0,0,0.3) -1px -2px;
+}
+div#main {
+width: 600px;
+margin: 0px auto;
+text-align: left;
+padding: 15px;
+border: 1px solid #000000;
+background-color: #eeeeee;
+{
+
